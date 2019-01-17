@@ -24,5 +24,3 @@ func _physics_process(delta):
 			move_y = -400
 			
 	move_and_slide(Vector2(move_x, move_y), Vector2(0, -1))
-	
-	

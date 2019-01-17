@@ -7,10 +7,7 @@ path="res://.import/skull_in_a_ufo_spacecraft.png-fa3ca0af3510c945672857bcdacd33
 [deps]
 
 source_file="res://skull_in_a_ufo_spacecraft.png"
-source_md5="7fffd4f325639cf2f5e9938e42c2b19d"
-
 dest_files=[ "res://.import/skull_in_a_ufo_spacecraft.png-fa3ca0af3510c945672857bcdacd3399.stex" ]
-dest_md5="70c3132663a7d0198ea90dfa3b281056"
 
 [params]
 
